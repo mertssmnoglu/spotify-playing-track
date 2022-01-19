@@ -1,0 +1,18 @@
+{
+  "name": "spotify-playing-track",
+  "version": "1.0.0",
+  "description": "Spotify playing track",
+  "main": "main.js",
+  "scripts": {
+    "getplaying": "node main.js"
+  },
+  "keywords": [
+    "spotify",
+    "current-playing"
+  ],
+  "author": "mertssmnoglu#0630",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
