@@ -11,3 +11,7 @@ cd spotify-playing-track # Change directory
 npm install # Install all dependencies
 npm run getplaying # Run
 ```
+
+## License
+
+GNU Licensed. Read the license before use.
